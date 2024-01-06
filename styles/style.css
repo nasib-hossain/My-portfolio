@@ -89,7 +89,7 @@ a{
     margin-bottom: 30px;
 }
 
-.main-section{
+.header-section{
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -97,8 +97,55 @@ a{
 
 .header-main-right img{
     margin-top: 49px;
+    width: 584px;
+    height: 676px;
 }
 
 .icon{
     padding-right: 10px;
 }
+
+/* header main ends */
+
+/* main starts */
+
+/* about starts */
+
+.about-section{
+    border-radius: 10px;
+    background: #FFF8F3;
+    text-align: center;
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    padding: 130px 155px;
+    margin: 130px 150px;
+}
+
+.about-info-container{
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+}
+
+.common-heading{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+
+}
+
+.common-description{
+    color: #757575;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+    margin: 30px 0px;
+}
+
+/* about ends */
+
+/* what i do starts */
+
