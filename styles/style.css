@@ -120,7 +120,7 @@ a{
     font-weight: 400;
     line-height: 30px;
     padding: 130px 155px;
-    margin: 130px 150px;
+    margin: 130px 230px;
 }
 
 .about-info-container{
@@ -149,3 +149,25 @@ a{
 
 /* what i do starts */
 
+.what-i-do-container{
+    padding: 0px 150px;
+    text-align: center;
+}
+
+.skill-container{
+    display: flex;
+    gap: 24px;
+}
+
+.skill-info{
+    border-radius: 5px;
+    background: #FFF;
+    box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+    padding: 35px;
+}
+
+.skill-info h4, .skill-info p, .skill-info img{
+    margin-bottom: 25px;
+}
+
+/* what i do ends */
